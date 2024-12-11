@@ -1,4 +1,4 @@
-package collectionsex;
+package collections_Ex;
 
 import java.util.Comparator;
 
