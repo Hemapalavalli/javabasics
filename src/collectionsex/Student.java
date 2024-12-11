@@ -1,4 +1,4 @@
-package collections;
+package collectionsex;
 
 public class Student implements Comparable<Student>{
 	private Integer id;
