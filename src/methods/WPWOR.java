@@ -12,7 +12,9 @@ public class WPWOR {
 		WPWOR w=new WPWOR();
 		w.Addition(19, 1);
 //		System.out.println(m.c);
-
+		
+		
 	}
 
 }
+
