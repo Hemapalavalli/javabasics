@@ -60,7 +60,7 @@ public class QueueEx {
 //		System.out.println(q1.containsAll(q));
 //		
 		Iterator<Integer> it=q1.iterator();
-//		while (it.hasNext()) {
+//		while (it.hasNext()) { 
 //			Integer integer = it.next();
 //			System.out.println(integer);
 //		}
