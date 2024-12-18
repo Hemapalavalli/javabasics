@@ -11,8 +11,8 @@ public interface Lambda_Ex2 {
 			
 		};
 		
-		String s=l.Demo("Hema", 536);
-		System.out.println(s);
+		String s1=l.Demo("Hema", 536);
+		System.out.println(s1);
 	}
 
 }
