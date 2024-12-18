@@ -20,6 +20,8 @@ public class MapInternal_Execution {
 		
 		long hash2="ongl".hashCode() & (15);
 		System.out.println(hash2);
+		
+		System.out.println();
 	}
 
 }
