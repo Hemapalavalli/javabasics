@@ -61,9 +61,8 @@ public class CHashMap {
 			System.out.println(e.getKey()+" "+e.getValue() );
 		}
 		
-		
 		Map m3=new TreeMap(m1);
-		System.out.println(m3);
+		System.out.println(m3.entrySet());
 		
 	}
 }

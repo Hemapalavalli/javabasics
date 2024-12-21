@@ -17,6 +17,17 @@ public class StreamEx1 {
 //		System.out.println(L1.toList());
 		System.out.println(L2.toList());
 
+		
+		List<String> sl=Arrays.asList("Hema","Vyshu","Pradeep","Chandu","Netra","Nitya");
+		
+//		System.out.println(sl.stream().filter(val -> val.length() < 6).toList());
+		
+		Stream<String> s1 = sl.stream().filter(val -> val.length() < 7);
+		
+		Stream<String> s2 = s1.filter(val-> val.length() <6);
+		
+		System.out.println(s1+ " \n" +s2.toList());
+		
 	}
 
 }

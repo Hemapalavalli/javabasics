@@ -1,4 +1,4 @@
-package Lambda_Customised;
+package lambda_Customised;
 
 public class UseDefined_Consumer {
 
